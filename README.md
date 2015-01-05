@@ -1,5 +1,5 @@
 sbowser-js
 ==========
-![alt tag](http://url/to/img.png)
+![salipropham](https://raw.githubusercontent.com/salipropham/sbowser-js/master/screenshot.png)
 
 A javascript library to detect browser and notice if versions is no longer supported.
